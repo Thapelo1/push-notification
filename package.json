@@ -1,0 +1,22 @@
+{
+  "name": "push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thapelo1/push-notification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thapelo1/push-notification/issues"
+  },
+  "homepage": "https://github.com/Thapelo1/push-notification#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
